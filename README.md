@@ -1,5 +1,15 @@
 # 学生成绩单（命令行模式版）
 
+## 如何运行
+
+1. 在项目目录下执行./gradlew build
+2. cd build/classes/java/main
+3. java MainMenu
+
+## 如何测试
+
+在项目目录下执行./gradlew test
+
 ## 练习要求
 
 我们现在做一个应用，该应用是一个命令行应用。当程序启动的时候，我们会看到一个命令行的主界面：
